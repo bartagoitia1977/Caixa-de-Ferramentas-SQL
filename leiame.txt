@@ -1,0 +1,5 @@
+Caixa de ferramentas SQL
+
+Algumas funções, scripts e ferramentas auxiliares.
+A pasta trata csv possui alguns programas em Python utilizados para realizar limpeza e preparo 
+de arquivos csv transformando-os em script de carga para sql. Recomendado para cargas pequenas até 50.000 linhas.
